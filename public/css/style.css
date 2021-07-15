@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cost-input, .dropdown{
+    padding: 5px 20px;
+    margin: 5px;
+    border: 5px solid skyblue;
+    border-radius: 10px;
+}
+.cost-list ul{
+    list-style-type: none;
+}
+.list-group-item{
+    border: none;
+    padding: 10px 0;
+}
+.list-container{
+    width: 450px;
+}
+.list-container ul li{
+    margin: 10px 0;
+    padding: 10px 20px;
+}
+span{
+    padding: 50px 10px 0 10px;
+}
